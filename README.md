@@ -15,8 +15,6 @@ This repository contains various Machine Learning projects, including data prepr
 
 🔀 Unsupervised Learning (K-Means, PCA, etc.)
 
-🎯 Deep Learning (Optional) (ANN, CNN, etc.)
-
 🏆 Model Evaluation & Performance Metrics
 
 ⚙️ Technologies Used
